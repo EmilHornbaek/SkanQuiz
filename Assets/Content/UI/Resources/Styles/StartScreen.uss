@@ -33,3 +33,8 @@ VisualElement {
     opacity: 0;
     visibility: hidden;
 }
+
+#StartButton:active {
+    scale: 1.1 1.1;
+    -unity-background-image-tint-color: rgb(74, 103, 51);
+}
