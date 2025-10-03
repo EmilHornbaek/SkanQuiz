@@ -16,62 +16,62 @@ MonoBehaviour:
   Sprite: {fileID: 2800000, guid: fef4045624d03d041ae9cbb5662c03c9, type: 3}
   Sound: {fileID: 8300000, guid: 0c4318ed7cce72c49a23974b9a3ef3e3, type: 3}
   Facts:
-  - fact: Horse says NEIGH!
+  - fact: Horse says neigh
   QuizQuestions:
-  - Question: Neigh?
+  - Question: "Hvor meget v\xE6ger en vildhest?"
     Answers:
-    - Answer: Yaaaaas
+    - Answer: 275-325kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Naaaaa
+    - Answer: 500-510kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Cudepoole
+    - Answer: 200-250kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Pissine
+    - Answer: 400-450kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-  - Question: Neigh?
+  - Question: Hvad er vildhestens levested?
     Answers:
-    - Answer: Yaaaaas
+    - Answer: "V\xE5domr\xE5der"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "\xC5bne gr\xE6ssl\xE6tter"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Naaaaa
+    - Answer: "T\xF8rre stepper"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Cudepoole
+    - Answer: "Kystomr\xE5der"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Pissine
-      UsesImage: 0
-      Image: {fileID: 0}
-      Allowed: 0
-  - Question: Neigh?
+  - Question: "Hvilket af disse dyr tilh\xF8rer IKKE hestefamilien (Equidae)?"
     Answers:
-    - Answer: Yaaaaas
+    - Answer: Zebra
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "\xC6sler"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Muldyr
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Tapirer
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Naaaaa
-      UsesImage: 0
-      Image: {fileID: 0}
-      Allowed: 0
-    - Answer: Cudepoole
-      UsesImage: 0
-      Image: {fileID: 0}
-      Allowed: 0
-    - Answer: Pissine
-      UsesImage: 0
-      Image: {fileID: 0}
-      Allowed: 0
   - Question: Neigh?
     Answers:
     - Answer: Yaaaaas
