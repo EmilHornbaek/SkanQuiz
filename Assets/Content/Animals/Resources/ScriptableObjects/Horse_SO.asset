@@ -18,7 +18,7 @@ MonoBehaviour:
   Facts:
   - fact: Tak fordi du spillede med!
   QuizQuestions:
-  - Question: "Hvor meget v\xE6ger en vildhest?"
+  - Question: Hvor meget vejer en vildhest?
     Answers:
     - Answer: 275-325kg
       UsesImage: 0
