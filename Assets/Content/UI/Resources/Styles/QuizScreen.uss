@@ -129,4 +129,9 @@
 
 #Answer.wrong-answer {
     background-color: rgb(153, 56, 56);
+    -unity-background-image-tint-color: rgb(153, 56, 56);
+}
+
+#Answer:active {
+    scale: 1.1 1.1;
 }
