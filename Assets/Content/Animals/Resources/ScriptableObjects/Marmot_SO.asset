@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 721ab6699d5f22c488715ed9f62876e6, type: 3}
   m_Name: Marmot_SO
   m_EditorClassIdentifier: Assembly-CSharp::AnimalData
-  Name: Marmot
-  Sprite: {fileID: 2800000, guid: 77f3fe6ced092ba478f0fce1e7d794d3, type: 3}
+  Name: Hugorm
+  Sprite: {fileID: 2800000, guid: 84a52ec1038deda439c588b833709fc3, type: 3}
   Sound: {fileID: 0}
-  Facts: []
+  Facts:
+  - fact: Tak fordi du spillede med!
   QuizQuestions: []

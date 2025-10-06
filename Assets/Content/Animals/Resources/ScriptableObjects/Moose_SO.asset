@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 721ab6699d5f22c488715ed9f62876e6, type: 3}
   m_Name: Moose_SO
   m_EditorClassIdentifier: Assembly-CSharp::AnimalData
-  Name: Moose
-  Sprite: {fileID: 0}
+  Name: Elg
+  Sprite: {fileID: 2800000, guid: 4374515311b787048861dfe920c740a8, type: 3}
   Sound: {fileID: 0}
-  Facts: []
+  Facts:
+  - fact: Tak fordi du spillede med!
   QuizQuestions: []

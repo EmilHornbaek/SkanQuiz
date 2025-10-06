@@ -75,6 +75,10 @@ VisualElement {
 .fit-parent {
     width: 100%;
     height: 100%;
+    -unity-background-scale-mode: stretch-to-fill;
+    background-size: cover;
+    justify-content: center;
+    -unity-slice-type: sliced;
 }
 
 .animal-option Label {

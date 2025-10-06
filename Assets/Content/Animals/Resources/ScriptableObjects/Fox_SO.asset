@@ -12,26 +12,99 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 721ab6699d5f22c488715ed9f62876e6, type: 3}
   m_Name: Fox_SO
   m_EditorClassIdentifier: Assembly-CSharp::AnimalData
-  Name: Fox
-  Sprite: {fileID: 2800000, guid: d8f44c5dc85198b41907685992f66023, type: 3}
+  Name: "R\xE6v"
+  Sprite: {fileID: 2800000, guid: e322684bc89874044abd403ea96509d1, type: 3}
   Sound: {fileID: 0}
-  Facts: []
+  Facts:
+  - fact: Tak fordi du spillede med!
   QuizQuestions:
-  - Question: What does the fox say?
+  - Question: "Hvad vejer en R\xF8dr\xE6v?"
     Answers:
-    - Answer: REEEEEEEEE
+    - Answer: 6-11 kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Hello, Ben
+    - Answer: 4-9 kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: I am your father
+    - Answer: 10-15 kg
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Pa pa pa pa pa pa pow
+    - Answer: 13-18 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor lever R\xF8dr\xE6ven?"
+    Answers:
+    - Answer: I skoven
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "P\xE5 stranden"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "P\xE5 savannen"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I byerne
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvad spiser R\xF8dr\xE6ven?"
+    Answers:
+    - Answer: "K\xF8d"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: Insekter
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "Gr\xE6s"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Frugt
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor i verden findes R\xF8dr\xE6ven?"
+    Answers:
+    - Answer: I Europa
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "P\xE5 Antarktis"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I Regnskoven
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "I Syd\xF8stasien"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor gammel bliver en R\xF8dr\xE6v i naturen?"
+    Answers:
+    - Answer: "5 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "8 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "11 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "3 \xE5r"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
