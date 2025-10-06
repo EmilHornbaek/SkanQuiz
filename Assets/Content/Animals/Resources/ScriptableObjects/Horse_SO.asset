@@ -36,7 +36,7 @@ MonoBehaviour:
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-  - Question: Hvad er vildhestens levested?
+  - Question: Hvad er Vildhestens levested?
     Answers:
     - Answer: "V\xE5domr\xE5der"
       UsesImage: 0
@@ -72,39 +72,39 @@ MonoBehaviour:
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-  - Question: Neigh?
+  - Question: Hvad spiser Vildhesten?
     Answers:
-    - Answer: Yaaaaas
+    - Answer: "Gr\xE6s"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Naaaaa
+    - Answer: "K\xF8d"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Cudepoole
+    - Answer: Insekter
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Pissine
+    - Answer: Pizza
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-  - Question: Neigh?
+  - Question: Hvor gammel kan en Vildhest blive?
     Answers:
-    - Answer: Yaaaaas
+    - Answer: "15-25 \xE5r"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
-    - Answer: Naaaaa
+    - Answer: "5-15 \xE5r"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Cudepoole
+    - Answer: "25-35 \xE5r"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
-    - Answer: Pissine
+    - Answer: "35-45 \xE5r"
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 0
