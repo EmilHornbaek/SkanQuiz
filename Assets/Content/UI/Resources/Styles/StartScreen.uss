@@ -36,5 +36,5 @@ VisualElement {
 
 #StartButton:active {
     scale: 1.1 1.1;
-    -unity-background-image-tint-color: rgb(74, 103, 51);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
 }
