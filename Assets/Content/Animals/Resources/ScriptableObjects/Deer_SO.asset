@@ -18,9 +18,93 @@ MonoBehaviour:
   Facts:
   - fact: Tak fordi du spillede med!
   QuizQuestions:
-  - Question: Bob the builder?
+  - Question: Hvad vejer vildsvinet?
     Answers:
-    - Answer: Build a bear
+    - Answer: 50-100kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: 25-50kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 100-125kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 70-90kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvad er vildsvinets levetid?
+    Answers:
+    - Answer: "Op til 20\xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "20-25\xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "Op til 10 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "Op til 5 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvad spiser vildsvinet?
+    Answers:
+    - Answer: "Omnivore, s\xE5 den spiser alt."
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "K\xF8d"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "Gr\xE6s"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Insekter
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvorn\xE5r blev svinet udryddet i Danmark?"
+    Answers:
+    - Answer: 1900-tallet
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 1970-1980
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 1800-tallet
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "\xE5r 2000"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor mange unger f\xE5r vildsvinet?"
+    Answers:
+    - Answer: 0
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 1-2
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 2-5
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 2-8
       UsesImage: 0
       Image: {fileID: 0}
       Allowed: 1
