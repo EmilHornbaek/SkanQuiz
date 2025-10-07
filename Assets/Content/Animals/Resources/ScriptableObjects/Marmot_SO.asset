@@ -17,4 +17,94 @@ MonoBehaviour:
   Sound: {fileID: 0}
   Facts:
   - fact: Tak fordi du spillede med!
-  QuizQuestions: []
+  QuizQuestions:
+  - Question: Hvad vejer en Hugorm?
+    Answers:
+    - Answer: 50-180 g
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: 120-250 g
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 170-300 g
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 230-350 g
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvor lever Hugormen?
+    Answers:
+    - Answer: I Europa
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: I Sydamerika
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I Afrika
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I Asien
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvad spiser Hugormen?
+    Answers:
+    - Answer: "Mus, fr\xF8er & fugle"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: Insekter & svampe
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "K\xF8er & grise"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "Gr\xE6s & korn"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvor lang bliver en Hugorm?
+    Answers:
+    - Answer: 40-80 cm
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: 10-60 cm
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 80-120 cm
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 100-140 cm
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: 'Hugormen er:'
+    Answers:
+    - Answer: Et krybdyr
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: Et pattedyr
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: En fugl
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: En fisk
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0

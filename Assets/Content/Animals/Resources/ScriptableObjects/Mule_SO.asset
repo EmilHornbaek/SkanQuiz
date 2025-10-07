@@ -17,4 +17,94 @@ MonoBehaviour:
   Sound: {fileID: 0}
   Facts:
   - fact: Tak fordi du spillede med!
-  QuizQuestions: []
+  QuizQuestions:
+  - Question: "Hvad vejer en Brunbj\xF8rn?"
+    Answers:
+    - Answer: 100-400 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: 50-300 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 300-600 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 500-800 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor mange bj\xF8rnearter findes der i verden?"
+    Answers:
+    - Answer: "8 bj\xF8rnearter"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "6 bj\xF8rnearter"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "7 bj\xF8rnearter"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "9 bj\xF8rnearter"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvad spiser brunbj\xF8rnen IKKE?"
+    Answers:
+    - Answer: "Tr\xE6er"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "Gr\xE6s"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Fisk
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "B\xE6r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor gammel bliver en Brunbj\xF8rn i naturen?"
+    Answers:
+    - Answer: "20-30 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "10-20 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "1-10 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "30-40 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: "Hvor lever Brunbj\xF8rnen?"
+    Answers:
+    - Answer: I skoven og tundra
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "P\xE5 savannen"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I byerne
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I regnskoven
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0

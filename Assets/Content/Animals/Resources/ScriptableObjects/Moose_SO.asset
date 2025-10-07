@@ -17,4 +17,94 @@ MonoBehaviour:
   Sound: {fileID: 0}
   Facts:
   - fact: Tak fordi du spillede med!
-  QuizQuestions: []
+  QuizQuestions:
+  - Question: Hvad vejer en Elg?
+    Answers:
+    - Answer: 250-500 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: 150-300 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 500-750 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: 750-1000 kg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvad kaldes en Elg-han?
+    Answers:
+    - Answer: Elgtyr
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: Elgko
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Elgkalv
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: Hr. Elg
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvor gammel bliver en Elg i naturen?
+    Answers:
+    - Answer: "4-10 \xE5r?"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "10-16 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "1-7 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "16-22 \xE5r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvor lever Elgen?
+    Answers:
+    - Answer: I skove og tundra?
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "P\xE5 savannen"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I regnskoven
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: I byerne
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+  - Question: Hvad spiser Elgen IKKE?
+    Answers:
+    - Answer: Insekter
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 1
+    - Answer: "Tr\xE6er"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "Gr\xE6s"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
+    - Answer: "B\xE6r"
+      UsesImage: 0
+      Image: {fileID: 0}
+      Allowed: 0
