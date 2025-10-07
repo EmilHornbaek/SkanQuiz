@@ -132,6 +132,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -6366842372849572555, guid: e124138a10b891144b655798e3810bbb, type: 3}
+      propertyPath: m_Volume
+      value: 0.7
+      objectReference: {fileID: 0}
     - target: {fileID: 865524434875430058, guid: e124138a10b891144b655798e3810bbb, type: 3}
       propertyPath: m_WorldSpaceWidth
       value: 390
@@ -363,6 +367,10 @@ PrefabInstance:
     - target: {fileID: 6457619076089995986, guid: b2c6f67b3757533409b56931741b1fa3, type: 3}
       propertyPath: returnTimerDuration
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7395826315152625290, guid: b2c6f67b3757533409b56931741b1fa3, type: 3}
+      propertyPath: Priority
+      value: 128
       objectReference: {fileID: 0}
     - target: {fileID: 7636663369304623647, guid: b2c6f67b3757533409b56931741b1fa3, type: 3}
       propertyPath: m_Pivot
