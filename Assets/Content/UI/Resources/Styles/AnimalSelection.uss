@@ -4,9 +4,9 @@
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
     margin-top: 10px;
-    margin-right: 10px;
+    margin-right: 15px;
     margin-bottom: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
     overflow: hidden;
     visibility: visible;
     border-top-width: 3px;
@@ -19,6 +19,7 @@
     border-bottom-color: rgb(203, 139, 0);
     -unity-background-scale-mode: scale-to-fit;
     scale: 1 1;
+    align-items: center;
 }
 
 VisualElement {
@@ -79,6 +80,7 @@ VisualElement {
     background-size: cover;
     justify-content: center;
     -unity-slice-type: sliced;
+    border-bottom-width: 0;
 }
 
 .animal-option Label {
@@ -90,4 +92,14 @@ VisualElement {
     color: rgb(249, 253, 0);
     -unity-text-outline-color: rgb(255, 140, 0);
     -unity-text-outline-width: 2px;
+    margin-bottom: 0;
+    bottom: 0;
+    border-bottom-width: 0;
+    transform-origin: center;
+    scale: 1 1;
+    border-top-width: 21px;
+}
+
+.animal-option:hover {
+    scale: 1.1 1.1;
 }
