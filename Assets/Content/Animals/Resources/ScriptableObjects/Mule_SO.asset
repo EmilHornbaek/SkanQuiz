@@ -16,7 +16,7 @@ MonoBehaviour:
   Sprite: {fileID: 2800000, guid: 55d26118ffe6b624ba359a9a9dcbf041, type: 3}
   Sound: {fileID: 8300000, guid: df6a7fbd0a07a9b4b832f995bd6300ac, type: 3}
   Facts:
-  - fact: "Godt g\xE5et! Vi h\xE5ber du f\xE5r en god oplevelse her i dyreparken!"
+  - fact: "Godt g\xE5et! Vi h\xE5ber, du f\xE5r en god oplevelse her i dyreparken!"
   QuizQuestions:
   - Question: "Hvad vejer en Brunbj\xF8rn?"
     Answers:
