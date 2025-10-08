@@ -125,6 +125,9 @@
 }
 
 .back-button {
+    align-items: stretch;
+    margin-right: 0;
+    padding-right: 0;
 }
 
 #Answer.wrong-answer {
@@ -132,6 +135,10 @@
     -unity-background-image-tint-color: rgb(153, 56, 56);
 }
 
-#Answer:active {
+#Answer:hover {
+    scale: 1.1 1.1;
+}
+
+#BackButton:hover {
     scale: 1.1 1.1;
 }

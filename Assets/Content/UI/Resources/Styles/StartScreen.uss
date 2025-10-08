@@ -34,7 +34,7 @@ VisualElement {
     visibility: hidden;
 }
 
-#StartButton:active {
+#StartButton:hover {
     scale: 1.1 1.1;
     -unity-background-image-tint-color: rgb(255, 255, 255);
 }
